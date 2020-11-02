@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Xcode
+**/xcuserdata/
+**/*.xcodeproj/
+**/*.xcworkspace/
+
+# Visual Studio Code
+.vscode/
+
+# Buck
+buck-out/
+.buckd/
+
+# Build
+Build/
